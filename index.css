@@ -1,0 +1,30 @@
+table {
+width: 600px;
+margin: 0 auto;
+}
+body {
+  background-image: url("https://wallpapers.gry-online.pl/pliki/60220/1920x1080.jpg");
+}
+h1{
+  color: #8B0000;
+  font-family: Arial;
+  font-size: 200%;
+}
+h2{
+  color: #8B0000;
+  font-family: Arial;
+  font-size: 105%;
+}
+button{
+  background-color:000000;
+   color: white;
+   border-radius: 20px;
+}
+h3{
+  color: #ffffff;
+  font-family: arial;
+  font-size: 90%;
+}
+p{
+  font-family: arial;
+}
